@@ -13,6 +13,8 @@
 
 body {
     font-family:'Varela Round', sans-serif;
+    
+    @media screen and (max-width:400px)
    
 }
 .clear {
