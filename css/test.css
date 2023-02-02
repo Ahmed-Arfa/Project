@@ -14,7 +14,7 @@
 body {
     font-family:'Varela Round', sans-serif;
     
-    @media screen and (max-width:400px)
+    @media screen and (max-width:400px){
    
 }
 .clear {
@@ -813,4 +813,6 @@ visibility: visible;
     color: #999;
     font-size: 15px;
     text-transform: uppercase;
+}
+    
 }
