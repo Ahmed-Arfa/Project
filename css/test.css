@@ -1,3 +1,4 @@
+@media screen and (max-width:400px){
 *{
     margin: 0;
     padding: 0;
@@ -14,7 +15,7 @@
 body {
     font-family:'Varela Round', sans-serif;
     
-    @media screen and (max-width:400px){
+    
    
 }
 .clear {
